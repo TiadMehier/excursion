@@ -1,6 +1,7 @@
 html {
   font-family: Verdana;
   text-align: center;
+  background-color: black;
 }
 h1{
   font-weight: normal;
@@ -20,6 +21,6 @@ p{
   color: gray;
   font-size:21px;
 }
-copyright{
+.copyright{
   text-align: right;
 }
